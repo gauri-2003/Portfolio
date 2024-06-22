@@ -81,3 +81,7 @@ function asideSectionTogglerBtn() {
     allSection[i].classList.toggle("open");
   }
 }
+
+function resetForm(){
+  document.getElementById("myForm").reset();
+}
