@@ -821,11 +821,11 @@ h3.my-profession{
 
      .home .home-img{
         margin-top: 80px;
-        margin-left: 15px;
+        margin-left: 20px;
     }
 
     .home-img::after{
-        right: -160px;
+        right: -180px;
     }
 }
 
